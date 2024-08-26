@@ -2,7 +2,7 @@
     "name": "ahhyun-moon",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://ahhyun-moon.github.io/ahhyun-moon",
+    "homepage": "https://ahhyun-moon.github.io/my-page",
     "dependencies": {
         "@testing-library/jest-dom": "^5.17.0",
         "@testing-library/react": "^13.4.0",
